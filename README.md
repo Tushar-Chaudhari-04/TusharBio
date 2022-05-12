@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharcharlie
-- 👀 I’m interested in FullSatck Development
+- 👀 I’m interested in FullSatck Web Development
 - 🌱 I’m currently learning FrontEnd and BackEnd Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
